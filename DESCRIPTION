@@ -1,0 +1,13 @@
+Package: Algoprojetetudiant
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: George Bejinariu Liao Puwei Zhang Shurong
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Algorithme naive, algorithme récursive et algorithme génétique pour le problème d'allocation Student-project.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 1.0.8), combinat
+LinkingTo: Rcpp
+
