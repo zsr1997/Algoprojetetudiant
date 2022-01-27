@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
+importFrom(combinat,permn)
+useDynLib(Algoprojetetudiant, .registration = TRUE)
