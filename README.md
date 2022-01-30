@@ -3,7 +3,7 @@ Algorithmes pour le probleme d'allocation student project
 Ce package contient l'algorithme naïf, l'algorithme récursif et l'algorithme génétique pour le problème d'allocation student project en version R et C++. 
 Pour tester notre code:
 
-devtools::install_github("zsr1997/Algoprojetetudiant", force = TRUE)
+devtools::install_github("zsr1997/Algoprojetetudiant", force = TRUE) \\
 library(Algoprojetetudiant)
 studentProjectScore(10)
 #Matrice score de taille 10*10
